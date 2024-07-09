@@ -1,5 +1,5 @@
 {
-  "name": "@zh00g/react-native-drag-sort",
+  "name": "@gracexz/react-native-drag-sort",
   "version": "2.4.5",
   "description": "Drag and drop sort control for react-native",
   "main": "index.js",
